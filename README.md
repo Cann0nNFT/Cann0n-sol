@@ -30,6 +30,6 @@ I’m Cann0n.sol, a Web3 dev grinding in the NFT trenches. I build tools to pump
 ## Screenshots
 ![Rumble](screenshots/Rumble.jpg "Custom Rumble")  
 ![Interaction](screenshots/Goodbot.jpg "Good Bot")
-![Rumble](screenshots/raffleBot.jpg "Raffle Bot")  
+![Rumble](screenshots/botRaffle.jpg "Raffle Bot")  
 ## Collab?
 Got an NFT project or dApp? DM me on [X](https://x.com/messages/compose?recipient_id=1606470609122344961) or Discord (_Cann0n). Let’s build alpha, not FUD. #NFT #Web3
