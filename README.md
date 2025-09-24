@@ -28,8 +28,8 @@ I’m Cann0n.sol, a Web3 dev grinding in the NFT trenches. I build tools to pump
 - **Web3 Frontend**: Crafted dApp UI for solana payment merch store.  
 
 ## Screenshots
-![Mint Alert](screenshots/Rumble.jpg "Custom Rumble")  
-![Role Management](screenshots/Goodbot.jpg "Good Bot")  
-
+![Rumble](screenshots/Rumble.jpg "Custom Rumble")  
+![Interaction](screenshots/Goodbot.jpg "Good Bot")
+![Rumble](screenshots/raffleBot.jpg "Raffle Bot")  
 ## Collab?
 Got an NFT project or dApp? DM me on [X](https://x.com/messages/compose?recipient_id=1606470609122344961) or Discord (_Cann0n). Let’s build alpha, not FUD. #NFT #Web3
